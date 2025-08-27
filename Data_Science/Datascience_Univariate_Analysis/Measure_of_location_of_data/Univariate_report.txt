@@ -1,0 +1,56 @@
+Salary Column Summary
+
+
+Central Tendency
+
+Mean = 288,655
+
+Median = 265,000
+
+Mode = 300,000
+
+Mean > Median, the data is right-skewed 
+
+
+ Spread
+
+Q1 (25%) = 240,000
+
+Q2 (Median, 50%) = 265,000
+
+Q3 (75%) = 300,000
+
+IQR = 60,000
+
+50% of salaries fall between 240K – 300K.
+
+
+ Outlier Detection (IQR Method)
+
+Lower Fence = 150,000
+
+Upper Fence = 390,000
+
+Min = 200,000 (above LF → no low outliers)
+
+Max = 940,000 (way above UF → high outliers present)
+
+There are extreme high salaries in the data.
+
+Shape
+
+Skewness = 3.57 (high positive skew) → Most salaries are clustered at the lower end, a few very high earners stretch the tail.
+
+Kurtosis = 18.54 (very high, leptokurtic) → Extremely heavy tails, lots of influence from outliers.
+
+
+
+Business Interpretation
+
+The majority of employees earn 240K–300K.
+
+The mean salary (288K) is inflated due to a few very high salaries (~940K).
+
+Salary distribution is highly skewed and leptokurtic, meaning averages are misleading, and median is a better measure of “typical” salary.
+
+Outliers (very high earners) may represent senior executives, star performers, or anomalies and should be studied separately.
