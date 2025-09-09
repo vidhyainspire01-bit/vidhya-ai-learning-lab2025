@@ -1,0 +1,201 @@
+CustomerID,Genre,Age,Annual Income (k$),Spending Score (1-100),Cluster_group,SegmentName
+1,Male,19,15,39,3,Low-Spend Basics
+2,Male,21,15,81,4,Value Lovers
+3,Female,20,16,6,7,Low-Spend Basics
+4,Female,23,16,77,4,Value Lovers
+5,Female,31,17,40,3,Low-Spend Basics
+6,Female,22,17,76,4,Value Lovers
+7,Female,35,18,6,7,Low-Spend Basics
+8,Female,23,18,94,4,Value Lovers
+9,Male,64,19,3,7,Low-Spend Basics
+10,Female,30,19,72,4,Value Lovers
+11,Male,67,19,14,7,Low-Spend Basics
+12,Female,35,19,99,4,Value Lovers
+13,Female,58,20,15,7,Low-Spend Basics
+14,Female,24,20,77,4,Value Lovers
+15,Male,37,20,13,7,Low-Spend Basics
+16,Male,22,20,79,4,Value Lovers
+17,Female,35,21,35,3,Low-Spend Basics
+18,Male,20,21,66,4,Value Lovers
+19,Male,52,23,29,3,Low-Spend Basics
+20,Female,35,23,98,4,Value Lovers
+21,Male,35,24,35,3,Low-Spend Basics
+22,Male,25,24,73,4,Value Lovers
+23,Female,46,25,5,7,Low-Spend Basics
+24,Male,31,25,73,4,Value Lovers
+25,Female,54,28,14,7,Low-Spend Basics
+26,Male,29,28,82,4,Value Lovers
+27,Female,45,28,32,3,Low-Spend Basics
+28,Male,35,28,61,4,Value Lovers
+29,Female,40,29,31,3,Low-Spend Basics
+30,Female,23,29,87,4,Value Lovers
+31,Male,60,30,4,7,Low-Spend Basics
+32,Female,21,30,73,4,Value Lovers
+33,Male,53,33,4,7,Low-Spend Basics
+34,Male,18,33,92,4,Value Lovers
+35,Female,49,33,14,7,Low-Spend Basics
+36,Female,21,33,81,4,Value Lovers
+37,Female,42,34,17,7,Low-Spend Basics
+38,Female,30,34,73,4,Value Lovers
+39,Female,36,37,26,3,Low-Spend Basics
+40,Female,20,37,75,4,Value Lovers
+41,Female,65,38,35,3,Low-Spend Basics
+42,Male,24,38,92,4,Value Lovers
+43,Male,48,39,36,3,Low-Spend Basics
+44,Female,31,39,61,6,Mainstream Core
+45,Female,49,39,28,3,Low-Spend Basics
+46,Female,24,39,65,6,Value Lovers
+47,Female,50,40,55,6,Mainstream Core
+48,Female,27,40,47,6,Mainstream Core
+49,Female,29,40,42,6,Mainstream Core
+50,Female,31,40,42,6,Mainstream Core
+51,Female,49,42,52,6,Mainstream Core
+52,Male,33,42,60,6,Mainstream Core
+53,Female,31,43,54,6,Mainstream Core
+54,Male,59,43,60,6,Mainstream Core
+55,Female,50,43,45,6,Mainstream Core
+56,Male,47,43,41,6,Mainstream Core
+57,Female,51,44,50,6,Mainstream Core
+58,Male,69,44,46,6,Mainstream Core
+59,Female,27,46,51,6,Mainstream Core
+60,Male,53,46,46,6,Mainstream Core
+61,Male,70,46,56,6,Mainstream Core
+62,Male,19,46,55,6,Mainstream Core
+63,Female,67,47,52,6,Mainstream Core
+64,Female,54,47,59,6,Mainstream Core
+65,Male,63,48,51,6,Mainstream Core
+66,Male,18,48,59,6,Mainstream Core
+67,Female,43,48,50,6,Mainstream Core
+68,Female,68,48,48,6,Mainstream Core
+69,Male,19,48,59,6,Mainstream Core
+70,Female,32,48,47,6,Mainstream Core
+71,Male,70,49,55,6,Mainstream Core
+72,Female,47,49,42,6,Mainstream Core
+73,Female,60,50,49,6,Mainstream Core
+74,Female,60,50,56,6,Mainstream Core
+75,Male,59,54,47,0,Mainstream Core
+76,Male,26,54,54,6,Mainstream Core
+77,Female,45,54,53,6,Mainstream Core
+78,Male,40,54,48,0,Mainstream Core
+79,Female,23,54,52,6,Mainstream Core
+80,Female,49,54,42,0,Mainstream Core
+81,Male,57,54,51,6,Mainstream Core
+82,Male,38,54,55,6,Mainstream Core
+83,Male,67,54,41,0,Mainstream Core
+84,Female,46,54,44,0,Mainstream Core
+85,Female,21,54,57,6,Mainstream Core
+86,Male,48,54,46,0,Mainstream Core
+87,Female,55,57,58,0,Mainstream Core
+88,Female,22,57,55,0,Mainstream Core
+89,Female,34,58,60,0,Mainstream Core
+90,Female,50,58,46,0,Mainstream Core
+91,Female,68,59,55,0,Mainstream Core
+92,Male,18,59,41,0,Mainstream Core
+93,Male,48,60,49,0,Mainstream Core
+94,Female,40,60,40,0,Mainstream Core
+95,Female,32,60,42,0,Mainstream Core
+96,Male,24,60,52,0,Mainstream Core
+97,Female,47,60,47,0,Mainstream Core
+98,Female,27,60,50,0,Mainstream Core
+99,Male,48,61,42,0,Mainstream Core
+100,Male,20,61,49,0,Mainstream Core
+101,Female,23,62,41,0,Mainstream Core
+102,Female,49,62,48,0,Mainstream Core
+103,Male,67,62,59,0,Mainstream Core
+104,Male,26,62,55,0,Mainstream Core
+105,Male,49,62,56,0,Mainstream Core
+106,Female,21,62,42,0,Mainstream Core
+107,Female,66,63,50,0,Mainstream Core
+108,Male,54,63,46,0,Mainstream Core
+109,Male,68,63,43,0,Mainstream Core
+110,Male,66,63,48,0,Mainstream Core
+111,Male,65,63,52,0,Mainstream Core
+112,Female,19,63,54,0,Mainstream Core
+113,Female,38,64,42,0,Mainstream Core
+114,Male,19,64,46,0,Mainstream Core
+115,Female,18,65,48,0,Mainstream Core
+116,Female,19,65,50,0,Mainstream Core
+117,Female,63,65,43,0,Mainstream Core
+118,Female,49,65,59,0,Mainstream Core
+119,Female,51,67,43,0,Mainstream Core
+120,Female,50,67,57,0,Mainstream Core
+121,Male,27,67,56,0,Mainstream Core
+122,Female,38,67,40,0,Mainstream Core
+123,Female,40,69,58,0,Mainstream Core
+124,Male,39,69,91,1,Champions
+125,Female,23,70,29,2,Affluent Savers
+126,Female,31,70,77,1,Champions
+127,Male,43,71,35,0,Mainstream Core
+128,Male,40,71,95,1,Champions
+129,Male,59,71,11,2,Affluent Savers
+130,Male,38,71,75,1,Champions
+131,Male,47,71,9,2,Affluent Savers
+132,Male,39,71,75,1,Champions
+133,Female,25,72,34,0,Mainstream Core
+134,Female,31,72,71,9,Champions
+135,Male,20,73,5,2,Affluent Savers
+136,Female,29,73,88,1,Champions
+137,Female,44,73,7,2,Affluent Savers
+138,Male,32,73,73,9,Champions
+139,Male,19,74,10,2,Affluent Savers
+140,Female,35,74,72,9,Champions
+141,Female,57,75,5,2,Affluent Savers
+142,Male,32,75,93,1,Champions
+143,Female,28,76,40,0,Mainstream Core
+144,Female,32,76,87,1,Champions
+145,Male,25,77,12,2,Affluent Savers
+146,Male,28,77,97,1,Champions
+147,Male,48,77,36,0,Affluent Savers
+148,Female,32,77,74,9,Champions
+149,Female,34,78,22,2,Affluent Savers
+150,Male,34,78,90,1,Champions
+151,Male,43,78,17,2,Affluent Savers
+152,Male,39,78,88,1,Champions
+153,Female,44,78,20,2,Affluent Savers
+154,Female,38,78,76,9,Champions
+155,Female,47,78,16,2,Affluent Savers
+156,Female,27,78,89,1,Champions
+157,Male,37,78,1,2,Affluent Savers
+158,Female,30,78,78,9,Champions
+159,Male,34,78,1,2,Affluent Savers
+160,Female,30,78,73,9,Champions
+161,Female,56,79,35,2,Affluent Savers
+162,Female,29,79,83,1,Champions
+163,Male,19,81,5,2,Affluent Savers
+164,Female,31,81,93,1,Champions
+165,Male,50,85,26,2,Affluent Savers
+166,Female,36,85,75,9,Champions
+167,Male,42,86,20,2,Affluent Savers
+168,Female,33,86,95,1,Champions
+169,Female,36,87,27,2,Affluent Savers
+170,Male,32,87,63,9,Champions
+171,Male,40,87,13,2,Affluent Savers
+172,Male,28,87,75,9,Champions
+173,Male,36,87,10,2,Affluent Savers
+174,Male,36,87,92,1,Champions
+175,Female,52,88,13,2,Affluent Savers
+176,Female,30,88,86,9,Champions
+177,Male,58,88,15,2,Affluent Savers
+178,Male,27,88,69,9,Champions
+179,Male,59,93,14,2,Affluent Savers
+180,Male,35,93,90,9,Champions
+181,Female,37,97,32,8,Affluent Savers
+182,Female,32,97,86,9,Champions
+183,Male,46,98,15,8,Affluent Savers
+184,Female,29,98,88,9,Champions
+185,Female,41,99,39,8,Affluent Savers
+186,Male,30,99,97,1,Champions
+187,Female,54,101,24,8,Affluent Savers
+188,Male,28,101,68,9,Champions
+189,Female,41,103,17,8,Affluent Savers
+190,Female,36,103,85,9,Champions
+191,Female,34,103,23,8,Affluent Savers
+192,Female,32,103,69,9,Champions
+193,Male,33,113,8,8,Affluent Savers
+194,Female,38,113,91,5,Champions
+195,Female,47,120,16,8,Affluent Savers
+196,Female,35,120,79,5,Champions
+197,Female,45,126,28,8,Affluent Savers
+198,Male,32,126,74,5,Champions
+199,Male,32,137,18,8,Affluent Savers
+200,Male,30,137,83,5,Champions
